@@ -316,10 +316,10 @@ Architecture: iphoneos-arm64
 Version: 1.0.26-1+debug
 Installed-Size: 1480
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_1.0.26-1+debug_iphoneos-arm64.deb
-Size: 230030
-MD5sum: cf944d8581ac32e7ec42fcb20e1f8ded
-SHA1: b71faf191632cff15c1a2ff6cd06623d6a451a41
-SHA256: adc3a9c6fcd8ac918f0e77a7e50129c0ec22685e4907a64839ac64a3d6a9db55
+Size: 230034
+MD5sum: 368492990611db481b76043aa42cf23d
+SHA1: 2dc143254cd6f8d8b17e22ae97cb5d5837952984
+SHA256: 71e96c3217abc7b240d9a713bad848cd6b478cc637ac1b6535e155b677e6f161
 
 Package: com.aosaid.ipainstallerpro
 Name: IPA Installer Pro
