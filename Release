@@ -1,0 +1,26 @@
+Origin: A-ZAIN Dev Repo
+Label: A-ZAIN Development
+Suite: stable
+Version: 1.0
+Codename: ios-dev
+Architectures: iphoneos-arm64
+Components: main
+Description: A-ZAIN Development Repo - Private testing channel
+
+MD5Sum:
+ 1d73285c41ad6aa29006c8d8c41ee70f 3174 Packages
+ 78e4f26763b3639eb4fa17eae460a658 871 Packages.gz
+ 37f7c8ed09397c93ae2dc755a48028e2 1067 Packages.bz2
+ c5b429ea0f77a343f6b46ebfd2fd6592 884 Packages.xz
+
+SHA1:
+ 4159ef7a9eaa371b6965c99c2df1845bc3da333a 3174 Packages
+ 1aacae61840f3bc7c4bea4c5222a1e7e2de6dc70 871 Packages.gz
+ 3b6c3046b2807317d62c7bfd2db2a67451a23720 1067 Packages.bz2
+ b6ce2e6cadffac5e77b160d1457413b4b447767b 884 Packages.xz
+
+SHA256:
+ 54e595d389c4c7bc69e0033606e40e9ba9c13acb3ec46af0e100d6b2ff1d2e89 3174 Packages
+ 4ea9ac471d5151b9ba3f0978b3d89cccd8385d1e8f991742fc86ee8193f232f5 871 Packages.gz
+ 88bd266f48433976850f7607f32b67d61d49265d0f81978a2032d6b71d3ff60c 1067 Packages.bz2
+ f9fe3dc5ba44a3aa10028bee02096db864e614bb1f2916a7b2473d1a2b76bb46 884 Packages.xz
