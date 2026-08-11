@@ -100,3 +100,20 @@ MD5sum: 7e20e1eaeab215cf39397aa4a8d492c6
 SHA1: 276833aa31f761948617c17e4e2d9b3a2e142539
 SHA256: 28d2bf18bd00e8071ddceb3c91c473091a0e6002c9862afc2ce93e8bcd056b5b
 
+Package: com.aosaid.ipainstallerpro
+Name: IPA Installer Pro
+Description: Professional IPA Installer for iOS Jailbreak — Self-Contained Installation Stack
+Maintainer: ZAIN <@Zainqkvd>
+Author: ZAIN <@Zainqkvd>
+Section: Utilities
+Depends: firmware (>= 15.0), unzip
+Pre-Depends: dpkg (>= 1.14.25)
+Architecture: iphoneos-arm64
+Version: 1.0.6-1+debug
+Installed-Size: 1044
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_1.0.6-1+debug_iphoneos-arm64.deb
+Size: 162554
+MD5sum: 594201bb9ae8f250826dd604c7775a59
+SHA1: 38a0feb1aea6285840b8d9f2dec954ba7fd392fd
+SHA256: 1b467b770417f223846b3b89f8460564017e820c3d27bdaa4c56f719bb69fcdb
+
