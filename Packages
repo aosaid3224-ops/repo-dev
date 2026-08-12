@@ -415,6 +415,23 @@ Section: Utilities
 Depends: firmware (>= 15.0), unzip
 Pre-Depends: dpkg (>= 1.14.25)
 Architecture: iphoneos-arm64
+Version: 1.0.31-1+debug
+Installed-Size: 1740
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_1.0.31-1+debug_iphoneos-arm64.deb
+Size: 279184
+MD5sum: 8b3fab4a5a8a3bc0c4f45a94896b0ecb
+SHA1: b6992d7b0569f3fe57a9eabfcb614fa3612e8b24
+SHA256: f8d65a001153fcdbd4fb0f022c704d860e024acc1fb2c35a071a1b72b056d666
+
+Package: com.aosaid.ipainstallerpro
+Name: IPA Installer Pro
+Description: Professional IPA Installer for iOS Jailbreak — Self-Contained Installation Stack
+Maintainer: ZAIN <@Zainqkvd>
+Author: ZAIN <@Zainqkvd>
+Section: Utilities
+Depends: firmware (>= 15.0), unzip
+Pre-Depends: dpkg (>= 1.14.25)
+Architecture: iphoneos-arm64
 Version: 1.0.4-1+debug
 Installed-Size: 940
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_1.0.4-1+debug_iphoneos-arm64.deb
