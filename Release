@@ -8,19 +8,19 @@ Components: main
 Description: A-ZAIN Development Repo - Private testing channel
 
 MD5Sum:
- 75c5c2c3bcf4ea5b954d55cda03576b7 16562 Packages
- cbce398eabf09f0d19d4e51aa3337fad 3061 Packages.gz
- 7f12102e1b2eab7eb11e40a761340212 3045 Packages.bz2
- 18eaee7423c312a1cab56a8504956b2d 2736 Packages.xz
+ ada57eec0c31bcb12e39df1f395d1fe2 17200 Packages
+ b1b6cc47d3af9aad2cbde7ab474df0bf 3162 Packages.gz
+ 8fd97dfec569a48fd57a321f7d011cfe 3119 Packages.bz2
+ 477b0d4eee73806df84a86038d155c5e 2816 Packages.xz
 
 SHA1:
- 1523df24b01223a62e43f72999a0678dfdbf533b 16562 Packages
- c14dd16d0f9a3ad12f1dfd008b9fb0ad5dea34de 3061 Packages.gz
- b675307b254bbdd9100d0c71154d2a7e1ecbf867 3045 Packages.bz2
- 5f4e827c56a85f4e472b54b186855ed80dc5ab80 2736 Packages.xz
+ f9de6f67202f35690b039540e6870eaab06d4f9e 17200 Packages
+ 55bcc4eeb08b202e2f338d88c07029ecd545951c 3162 Packages.gz
+ 966bcd7bece3d73c7de1d199dd159b7d857865b6 3119 Packages.bz2
+ c3cc8845cad07e9042f88d363eabfba4a67a876c 2816 Packages.xz
 
 SHA256:
- af6dfa83477e6c70b15260b75cf1f856abf4564cdec9aabe0d2ca000363c1880 16562 Packages
- 937839a00f496b30c31df4234828eb86b362e6c1c3fd60aa7fdb271fe9ae2e12 3061 Packages.gz
- e55058820d7023becb97e94f5adc0a9756e48b3f4c99f9dbfc2f0eb5ec5d9750 3045 Packages.bz2
- 4b0f94d7e1570840f02410ffe207eb2820794e46d8df8017b9d7c4f2d68c8e75 2736 Packages.xz
+ 61b66879adfd277f81da6c3df00388ab566adef75d3f4393ffc313f38bf543b0 17200 Packages
+ 1ab90627cdf008a8e6fa5152f6cfe2fc685241f8101bd0f17e0a837b8ef78abe 3162 Packages.gz
+ e1b27383484f0ade948d1112ab2bef4d9522b6c6bf794c82d6b7268e28337f03 3119 Packages.bz2
+ 63d710ac6a54bdb736ec1bcbf348ebb59b8d9dd1516f6710d18c0a47cb31bf85 2816 Packages.xz
