@@ -614,6 +614,22 @@ Author: aosaid <aosaid@proton.me>
 Section: Utilities
 Depends: firmware (>= 15.0), ldid, uikittools, unzip
 Architecture: iphoneos-arm64
+Version: 2.1.12-1+debug
+Installed-Size: 688
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.12-1+debug_iphoneos-arm64.deb
+Size: 142970
+MD5sum: b83110145aed61c4bd1f6854972aaf55
+SHA1: e86de9984d460db5095cf2d0f3ee2d46cc5df320
+SHA256: bdcd1609358b4432beca53dc435836cfeb237ce4b672dae5af339c26f7aff8ab
+
+Package: com.aosaid.ipainstallerpro
+Name: IPA Installer Pro
+Description: Standalone IPA installer with proprietary signing — no external tools required
+Maintainer: aosaid <aosaid@proton.me>
+Author: aosaid <aosaid@proton.me>
+Section: Utilities
+Depends: firmware (>= 15.0), ldid, uikittools, unzip
+Architecture: iphoneos-arm64
 Version: 2.1.2-1+debug
 Installed-Size: 656
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.2-1+debug_iphoneos-arm64.deb
