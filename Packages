@@ -14,6 +14,22 @@ MD5sum: e71514d801ab33602e8928e213e6311b
 SHA1: 7ecca090843b9ff427436c858fb6910db22a32ce
 SHA256: 45ea10a6c1411d8b1d7c2fa040546d02d3af71f99c98192cb85abf3f9f82037d
 
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional iOS Jailbreak App - Wipe & Backup App Data (Rootless/Dopamine Compatible) [Crash-Resilient Build]
+Maintainer: ZAIN <@Zainqkvd>
+Author: ZAIN <@Zainqkvd>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.6.1
+Installed-Size: 776
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.6.1_iphoneos-arm64.deb
+Size: 276148
+MD5sum: 26f27fca3fec70e7fb1024a660c73e65
+SHA1: 9fcbf18e52983eb016e5772d745b7ade83571b6f
+SHA256: 0c8fb1464b39ea8f5c1ff68741cedc0b3d090fd70a994f0294dda0193cca8561
+
 Package: com.aosaid.ipainstallerpro
 Name: IPA Installer Pro
 Description: Professional IPA Installer for iOS Jailbreak — Self-Contained Installation Stack
