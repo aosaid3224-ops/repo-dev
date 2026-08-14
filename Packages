@@ -695,12 +695,12 @@ Section: Utilities
 Depends: firmware (>= 15.0), ldid, uikittools, unzip
 Architecture: iphoneos-arm64
 Version: 2.1.18-1+debug
-Installed-Size: 704
+Installed-Size: 724
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.18-1+debug_iphoneos-arm64.deb
-Size: 149710
-MD5sum: 308c1f6e6f6152676810fa741c9380a6
-SHA1: 5d2e72ddd356776ba43139e51e942bca96bfa5af
-SHA256: 537dad51e5c3f9f8d1d5f590013ce443c82284dd526eb9c68222e22516609e90
+Size: 153392
+MD5sum: 2f55ec061b2057cfc7813172f5320dca
+SHA1: a5020cd8157208222abc5e9b9e11d6effc5924f5
+SHA256: a20be1ab653c1706a16c633788621b216a0def1ed9ed9ce15141cbb82774fc82
 
 Package: com.aosaid.ipainstallerpro
 Name: IPA Installer Pro
