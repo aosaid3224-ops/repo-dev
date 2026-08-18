@@ -70,6 +70,22 @@ Author: ZAIN <@Zainqkvd>
 Section: Utilities
 Depends: firmware (>= 15.0)
 Architecture: iphoneos-arm64
+Version: 1.7.13
+Installed-Size: 888
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.7.13_iphoneos-arm64.deb
+Size: 307446
+MD5sum: daa58e62218298d073cefd86db556f32
+SHA1: bf38ecad3078ce52368e5a6d148ff39996f9225a
+SHA256: 0247528924ad6a024223645627518321815209beef334aba27650790cdc891ac
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional iOS Jailbreak App - Wipe & Backup App Data (Rootless/Dopamine Compatible) [Crash-Resilient Build]
+Maintainer: ZAIN <@Zainqkvd>
+Author: ZAIN <@Zainqkvd>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Architecture: iphoneos-arm64
 Version: 1.7.1
 Installed-Size: 840
 Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.7.1_iphoneos-arm64.deb
