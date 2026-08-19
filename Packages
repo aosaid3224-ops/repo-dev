@@ -73,10 +73,10 @@ Architecture: iphoneos-arm64
 Version: 1.4.5
 Installed-Size: 872
 Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.4.5_iphoneos-arm64.deb
-Size: 291536
-MD5sum: e8b31f8045e7a9e00cd924eac24d0c1d
-SHA1: dfeebb4b09a5f66c7cda773edb55b1a4eb2e1097
-SHA256: 23d0b74ef1606c3a8fff1a7f5a1dc6ae4635aed1457b2563a7a11f578f95c3aa
+Size: 291552
+MD5sum: 39e05c941d596fcbf03d65bb36d6513b
+SHA1: 0425768babb28fd13f50fc895e6f6d546de31ce2
+SHA256: 401feed5f9162ed82f1ffad370e138b03360fbf9f941e845d9dcc50a5c000b58
 
 Package: com.aosaid.ipainstallerpro
 Name: IPA Installer Pro
