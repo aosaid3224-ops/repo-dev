@@ -105,10 +105,10 @@ Architecture: iphoneos-arm64
 Version: 1.7.15
 Installed-Size: 904
 Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.7.15_iphoneos-arm64.deb
-Size: 309476
-MD5sum: 6c62c716473539b22e746504394084d6
-SHA1: 2d47e0e7b4863fdcd3f612c0329861c32d52e983
-SHA256: d9fd7558aefbd16fbfd8c413764f435d9b5d791459ece2baa74456f1f85e7ba1
+Size: 308934
+MD5sum: 52fd3af2105685bd1798a714e7867df8
+SHA1: b8ae19c90e2fe6492d22d1319645c90a18ae0fe4
+SHA256: 9b9be223084f76e0ec7df89c33eaa6c3b22e50512ed8c594559de26ec57f5e36
 
 Package: com.aosaid.appdatamgr
 Name: AppData Manager
