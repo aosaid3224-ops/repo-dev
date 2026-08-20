@@ -6,18 +6,21 @@ Codename: ios-dev
 Architectures: iphoneos-arm64
 Components: main
 Description: A-ZAIN Development Repo - Private testing channel
+
 MD5Sum:
- 7c9f33c69247dcb7826bded271ff0b11             1241 Packages
- 407b5446aa07c66e1b04ef6b2ecc356c              682 Packages.gz
- 2dd8fbaec476069733f667be06d0515d              779 Packages.bz2
- 85692455ac7e7d895cf45827984b5fcf              752 Packages.xz
+ 2aa345de6530516cfe0a4b5e3f83fadd 1883 Packages
+ e1e6663f0b640f9dd64c43e1cea6dd51 795 Packages.gz
+ f34486670327b03d774b61e5bcfd674a 970 Packages.bz2
+ cfde950de66efd0cba40e3dbf078e988 848 Packages.xz
+
 SHA1:
- 07374e672bbd27059aa89598c60033a94971ecf8             1241 Packages
- c7a464ac93db93617d9b2e404ba3e16552b24155              682 Packages.gz
- 68f4eb75aca3037a02e41c506640e73d5f31d1a5              779 Packages.bz2
- 786348564f08dd058f82f1085a597293d8f033b4              752 Packages.xz
+ 4f3fea1f440ee295a0d0bba70a6158ba37b51672 1883 Packages
+ a1b0294a7630ac9203f2a0d8968160d7ed759fb3 795 Packages.gz
+ 41b7d6861f94a05840ff5f8cf26ce989c15f6da6 970 Packages.bz2
+ 6c3df73b5eb2f21c88218270f1a5e5397c9be797 848 Packages.xz
+
 SHA256:
- e214eefd5c60dc7513f0b10b6c60f7fc381f3c1335d0bb48c758b9edf10e394b             1241 Packages
- dfa210ea2386a4926d115c6dc088dd42030a4f8f6692b00edbda8dfbebafc87a              682 Packages.gz
- 52e1887b1507a90f09e1201de1b5b4a228d0f3f83a96b0d156bea4ecc1607aa6              779 Packages.bz2
- 9fc212a3399af557952b700bac73f7ca41e26ce57c430ab7ab6037e5735f0bd4              752 Packages.xz
+ 914a7b8319d098243d49c77f09038f52f6b075ef6d4eb2765d72ed008745f2e5 1883 Packages
+ 08cf77d795265e12cbe1fb0bcde8282dab1bba8649a6052a6d657f38755e0604 795 Packages.gz
+ fe502807bdbbf3a6472c4bd58649db4244493a6e9484bee3bd2115577c464072 970 Packages.bz2
+ b168a4732c2815e05b6b52a9c6f5710438f1042564c86136ab6bb23fda13cd65 848 Packages.xz
