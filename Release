@@ -6,21 +6,18 @@ Codename: ios-dev
 Architectures: iphoneos-arm64
 Components: main
 Description: A-ZAIN Development Repo - Private testing channel
-
 MD5Sum:
-96cb9a965b0a38182db73caef6f7cb61e6c0e701c38f93e624c704ace3ef7144             1241 Packages
-60cfe3894c43bbaeb41e673a5fa7e13f14f0d9fc1df68db9b889f6e62b963387              683 Packages.gz
-1cb686f5951138232fb192016321b586e03a765aa033ba19aa87390bf5543be7              793 Packages.bz2
-91df823d8aee42aecc25c6c6faf82b73da837ce2d932d3aed1b4c84b277de161              752 Packages.xz
-
+ 4a2c885ad3f502ad4f426adf6f604399             1241 Packages
+ 6f361c739b44aac6692a6b371509ec43              683 Packages.gz
+ 013b852c79794321e8eb7f277a6f02d7              793 Packages.bz2
+ 9c2a690a55d0ab4fbdb47a50b33cef5d              752 Packages.xz
 SHA1:
-96cb9a965b0a38182db73caef6f7cb61e6c0e701c38f93e624c704ace3ef7144             1241 Packages
-60cfe3894c43bbaeb41e673a5fa7e13f14f0d9fc1df68db9b889f6e62b963387              683 Packages.gz
-1cb686f5951138232fb192016321b586e03a765aa033ba19aa87390bf5543be7              793 Packages.bz2
-91df823d8aee42aecc25c6c6faf82b73da837ce2d932d3aed1b4c84b277de161              752 Packages.xz
-
+ 2557be68dfc59022b4a69d110f68bb16c1278c9a             1241 Packages
+ e0d2465fa902b9bb3ce634ad43e7d9da114a2f83              683 Packages.gz
+ 8d3083884a1b185f146aacb3de76d2c332e6a802              793 Packages.bz2
+ 7be917372e212f068eb18737ddd7dba1ca188c3a              752 Packages.xz
 SHA256:
-96cb9a965b0a38182db73caef6f7cb61e6c0e701c38f93e624c704ace3ef7144             1241 Packages
-60cfe3894c43bbaeb41e673a5fa7e13f14f0d9fc1df68db9b889f6e62b963387              683 Packages.gz
-1cb686f5951138232fb192016321b586e03a765aa033ba19aa87390bf5543be7              793 Packages.bz2
-91df823d8aee42aecc25c6c6faf82b73da837ce2d932d3aed1b4c84b277de161              752 Packages.xz
+ 96cb9a965b0a38182db73caef6f7cb61e6c0e701c38f93e624c704ace3ef7144             1241 Packages
+ 60cfe3894c43bbaeb41e673a5fa7e13f14f0d9fc1df68db9b889f6e62b963387              683 Packages.gz
+ 1cb686f5951138232fb192016321b586e03a765aa033ba19aa87390bf5543be7              793 Packages.bz2
+ 91df823d8aee42aecc25c6c6faf82b73da837ce2d932d3aed1b4c84b277de161              752 Packages.xz
