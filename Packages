@@ -409,8 +409,8 @@ Architecture: iphoneos-arm64
 Version: 2.1.57-1+debug
 Installed-Size: 1088
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.57-1+debug_iphoneos-arm64.deb
-Size: 233512
-MD5sum: 82928fe948172cfaae5ad13d7c53f226
-SHA1: dc5368780063571781af4f7ebed6e438e6115d2e
-SHA256: 7fae8f543ecb4b9c0a9b34af4f460e763e262695388ea24fef360a9ecbf9817f
+Size: 233632
+MD5sum: dd987b2b2692f7c1fb8291a92ed51f3a
+SHA1: 94f8089d4e3f0451cb2b002c5cad17b766b203cb
+SHA256: 9bdcef81f92a5292215a1dec5f6f373d35e362406a0517c96712ed10a444a1df
 
