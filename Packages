@@ -446,3 +446,19 @@ MD5sum: bca8d423a136cb925583efc5bb7ba6ca
 SHA1: 5087009bca1a1050392a9a2fb0732b17b5471481
 SHA256: 8d90dbf25e475a65fa0796580dda18340e753d023a5ae54d007d6ad2b707481c
 
+Package: com.aosaid.privacyvault
+Name: Privacy Vault
+Description: Privacy Vault hidden-entry prototype
+Maintainer: aosaid <aosaid@proton.me>
+Author: aosaid <aosaid@proton.me>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 0.1.1-1+debug
+Installed-Size: 112
+Filename: pool/main/iphoneos-arm64/com.aosaid.privacyvault_0.1.1-1+debug_iphoneos-arm64.deb
+Size: 12464
+MD5sum: cea273e9784635e3946312dcb84ce8d7
+SHA1: 94ed3e8971238b7da06957e84679dca5c44d3ce9
+SHA256: a32df6962ce16277a357f142f82a655bab02cf4c51fe30d45eefce6369a9a641
+
