@@ -391,10 +391,10 @@ Section: Utilities
 Depends: firmware (>= 15.0), ldid, uikittools, unzip
 Architecture: iphoneos-arm64
 Version: 2.1.56-1+debug
-Installed-Size: 1072
+Installed-Size: 1088
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.56-1+debug_iphoneos-arm64.deb
-Size: 231230
-MD5sum: 2db68252573c0b5a92914a0074850ed6
-SHA1: 91317dbc9c176b3111ce5a543cac06e5c435ea61
-SHA256: 2a76191855713af40aa2dd424b5e4f7e144940360ea88ff695b3042332ea0528
+Size: 233498
+MD5sum: 7e4682a59920b4aaec040a3b0007953f
+SHA1: 3f988ae708bc5901e57d482a94e8904377697298
+SHA256: dd67eed015480c8522c18a7c34dd0f5cdbbc0916d9b4ddb3252c07522bfb3ba3
 
