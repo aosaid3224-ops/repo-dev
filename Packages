@@ -454,11 +454,11 @@ Author: aosaid
 Section: Utilities
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm64
-Version: 1.5.0-1+debug
-Installed-Size: 1268
-Filename: pool/main/iphoneos-arm64/com.aosaid.privacyvault_1.5.0-1+debug_iphoneos-arm64.deb
-Size: 374278
-MD5sum: dda9d1828b91fafb78278457fea83290
-SHA1: 226619ac523071727ecef278051d358e8fa99615
-SHA256: 7565d1690a6ffd51911a01629cb12c82305afa511bb72d2128e3fbf89329110b
+Version: 1.6.0-1+debug
+Installed-Size: 1316
+Filename: pool/main/iphoneos-arm64/com.aosaid.privacyvault_1.6.0-1+debug_iphoneos-arm64.deb
+Size: 374898
+MD5sum: 0eb78ff90afdb8289b9223d4990a9750
+SHA1: a2666add09f9319c4104453c5f5e0f74a7e8f696
+SHA256: 795e275453fa6b40f2933253faa56c2a7c6d12e8b6e739629a875e62edebd470
 
