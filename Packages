@@ -447,18 +447,18 @@ SHA1: 5087009bca1a1050392a9a2fb0732b17b5471481
 SHA256: 8d90dbf25e475a65fa0796580dda18340e753d023a5ae54d007d6ad2b707481c
 
 Package: com.aosaid.privacyvault
-Name: iOS
+Name: D-AZIN
 Description: System update checker
 Maintainer: aosaid
 Author: aosaid
 Section: Utilities
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm64
-Version: 1.6.0-1+debug
-Installed-Size: 1316
-Filename: pool/main/iphoneos-arm64/com.aosaid.privacyvault_1.6.0-1+debug_iphoneos-arm64.deb
-Size: 374898
-MD5sum: 0eb78ff90afdb8289b9223d4990a9750
-SHA1: a2666add09f9319c4104453c5f5e0f74a7e8f696
-SHA256: 795e275453fa6b40f2933253faa56c2a7c6d12e8b6e739629a875e62edebd470
+Version: 1.7.0-1+debug
+Installed-Size: 1304
+Filename: pool/main/iphoneos-arm64/com.aosaid.privacyvault_1.7.0-1+debug_iphoneos-arm64.deb
+Size: 370180
+MD5sum: 78b8c929f94ad7d4fe3b88dd6b6380c6
+SHA1: 622398622018ac60705f6e611d652031ecaf2bcd
+SHA256: dc6833b7cc114af8ee539c0a53ad76f4ff2bb7786f0629aead92cc745c346d08
 
