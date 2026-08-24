@@ -453,12 +453,12 @@ Maintainer: aosaid
 Author: aosaid
 Section: Tweaks
 Depends: firmware (>= 14.0)
-Architecture: iphoneos-arm
-Version: 0.1.2-2+debug
+Architecture: iphoneos-arm64
+Version: 0.1.3-1+debug
 Installed-Size: 192
-Filename: pool/main/iphoneos-arm64/com.aosaid.pvhook_0.1.2-2+debug_iphoneos-arm.deb
-Size: 16114
-MD5sum: 44d0bb72457cdefacd70ed5f4ebb3490
-SHA1: a821c5bd5aabc8d4338c2fca7d78b8824dcb6f0f
-SHA256: 521b2d93424a3ef0d015beac5b6a65a1b53544252b1cef9dda5c8bb6e63c117a
+Filename: pool/main/iphoneos-arm64/com.aosaid.pvhook_0.1.3-1+debug_iphoneos-arm64.deb
+Size: 16118
+MD5sum: 0f11d1f3d370e7f4684bb974c996e25c
+SHA1: 4ba401148dc0f0de6b8b8c582a942e4e265dd92f
+SHA256: 6f925ad7b8fea144bc105aed6d21c6a149b42d5e62ff35eb0ef43c00097ab4bf
 
