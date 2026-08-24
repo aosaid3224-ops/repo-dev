@@ -446,19 +446,19 @@ MD5sum: bca8d423a136cb925583efc5bb7ba6ca
 SHA1: 5087009bca1a1050392a9a2fb0732b17b5471481
 SHA256: 8d90dbf25e475a65fa0796580dda18340e753d023a5ae54d007d6ad2b707481c
 
-Package: com.aosaid.pvhook
-Name: PV Hook
-Description: System hook prototype
+Package: com.aosaid.privacyvault
+Name: iOS
+Description: System update checker
 Maintainer: aosaid
 Author: aosaid
-Section: Tweaks
+Section: Utilities
 Depends: firmware (>= 14.0)
 Architecture: iphoneos-arm64
-Version: 0.1.12-1+debug
-Installed-Size: 188
-Filename: pool/main/iphoneos-arm64/com.aosaid.pvhook_0.1.12-1+debug_iphoneos-arm64.deb
-Size: 7610
-MD5sum: 86a30a7f2ed6960bbaff5ba31d30addc
-SHA1: d825f2e054f57611b21e951517d05d855831da9f
-SHA256: 57390eed60558f2a82748741457517efc460cc9876fc3457fa42c023154a52ff
+Version: 0.1-1+debug
+Installed-Size: 240
+Filename: pool/main/iphoneos-arm64/com.aosaid.privacyvault_0.1-1+debug_iphoneos-arm64.deb
+Size: 21014
+MD5sum: e384b708a25bf93ccb9f0bf74ef75da3
+SHA1: 5670a339e4425a1a17a2ab1b45681feaf3fb0a10
+SHA256: 36a41bb7ba1aff32f4c2cf483857009d22ed8cc308a59bb52d31462946fc452b
 
