@@ -20,15 +20,15 @@ Description: Standalone IPA installer with proprietary signing — no external t
 Maintainer: aosaid <aosaid@proton.me>
 Author: aosaid <aosaid@proton.me>
 Section: Utilities
-Depends: firmware (>= 15.0), ldid, uikittools, unzip
+Depends: firmware (>= 15.0), ldid, uikittools, unzip, zip
 Architecture: iphoneos-arm64
-Version: 2.1.65-1+debug
-Installed-Size: 1164
-Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.65-1+debug_iphoneos-arm64.deb
-Size: 265782
-MD5sum: 716f160dca4a92a39a52053283e1ee3b
-SHA1: 1d3e9ef746eb708622399915cc63d93f9465063d
-SHA256: 3ed7213ff9b0995771011db01b4064968dff17a2124c595a637ab9c84162b36a
+Version: 2.1.66-1+debug
+Installed-Size: 1188
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.66-1+debug_iphoneos-arm64.deb
+Size: 258546
+MD5sum: e35dde0c48bd0567a7053faac6cb4fe1
+SHA1: f2650c668a58bc69167e0d6a42ddc1939b90efe2
+SHA256: aad166baa4381093e390c352fbba3167071e27af2107e713d3f81d29295033be
 
 Package: com.aosaid.privacyvault
 Name: D-AZIN
