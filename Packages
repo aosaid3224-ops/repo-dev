@@ -14,21 +14,35 @@ MD5sum: 02ba6b05e97b0993f2e9fc7a65d297cb
 SHA1: 6c7ea98cb310d0a8a58be0c94fb6261dc5664752
 SHA256: d3ace23a7ba71d4be88ceb97941a7c56af41a48b1b88caa0dad99070d1606a8f
 
+Package: com.aosaid.ipadecrypthelper
+Name: IPA Decrypt Helper
+Version: 0.1.0-1+debug
+Architecture: iphoneos-arm64
+Description: On-device decrypted IPA helper for jailbroken iOS
+Maintainer: aosaid <aosaid@proton.me>
+Author: aosaid <aosaid@proton.me>
+Section: Utilities
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipadecrypthelper_0.1.0-1+debug_iphoneos-arm64.deb
+Size: 30090
+MD5sum: 2c3bcfb9aa2f92395b9b7a1f73d72c26
+SHA1: d48aaa7b9f02fa3f60594998d67114da70b4c2a0
+SHA256: b85f601229f584b4c01515ec84a75c684b257e8a079c592d21c297225c3a085b
+
 Package: com.aosaid.ipainstallerpro
 Name: IPA Installer Pro
 Description: Standalone IPA installer with proprietary signing — no external tools required
 Maintainer: aosaid <aosaid@proton.me>
 Author: aosaid <aosaid@proton.me>
 Section: Utilities
-Depends: firmware (>= 15.0), ldid, uikittools, unzip, zip, moe.misty.fouldecrypt
+Depends: firmware (>= 15.0), ldid, uikittools, unzip, zip, com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
 Architecture: iphoneos-arm64
-Version: 2.1.69-1+debug
-Installed-Size: 1192
-Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.69-1+debug_iphoneos-arm64.deb
-Size: 263636
-MD5sum: 705b5fb60cfd21b462a81196fb1dacb2
-SHA1: fd221277c2a3c9ca27d6a166d74bfdaf32336b74
-SHA256: 29a372d2c68253d9521a8dff4cd7365a372a1c6cc99a59c64971020baf6fe97a
+Version: 2.1.70-1+debug
+Installed-Size: 1208
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.70-1+debug_iphoneos-arm64.deb
+Size: 265100
+MD5sum: e20adaa7f2cc32fa89686d4bb0425520
+SHA1: 50af97a6690b7f704bb6c5bedc3ea02dd2159ba5
+SHA256: c128654ca4ae4966be5673b6940d31a36f30aee3a77a4c14740229692939acf0
 
 Package: com.aosaid.privacyvault
 Name: D-AZIN
