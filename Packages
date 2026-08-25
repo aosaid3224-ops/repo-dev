@@ -20,15 +20,15 @@ Description: Standalone IPA installer with proprietary signing — no external t
 Maintainer: aosaid <aosaid@proton.me>
 Author: aosaid <aosaid@proton.me>
 Section: Utilities
-Depends: firmware (>= 15.0), ldid, uikittools, unzip, zip
+Depends: firmware (>= 15.0), ldid, uikittools, unzip, zip, moe.misty.fouldecrypt
 Architecture: iphoneos-arm64
-Version: 2.1.67-1+debug
-Installed-Size: 1188
-Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.67-1+debug_iphoneos-arm64.deb
-Size: 258480
-MD5sum: 51659b7d0239fe007440c8a97fe20961
-SHA1: 098c5b3ae66f69f625c7ebbd850236fccbb4bf9d
-SHA256: aa65d2310be2c33dd2f31f1849e6728b6febbdf5251425c84dcada120ba5b159
+Version: 2.1.68-1+debug
+Installed-Size: 1192
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.1.68-1+debug_iphoneos-arm64.deb
+Size: 262972
+MD5sum: 71c6f970f9d4349496fd47b43ac68800
+SHA1: 233e3622fa54dabc2c798a0d8cb00d06ea964fcc
+SHA256: 95bed3e5ea57e238175cea903e3e1378356608e03279ef1c17b370ee4fb9c8da
 
 Package: com.aosaid.privacyvault
 Name: D-AZIN
@@ -45,4 +45,21 @@ Size: 370180
 MD5sum: 78b8c929f94ad7d4fe3b88dd6b6380c6
 SHA1: 622398622018ac60705f6e611d652031ecaf2bcd
 SHA256: dc6833b7cc114af8ee539c0a53ad76f4ff2bb7786f0629aead92cc745c346d08
+
+Package: moe.misty.fouldecrypt
+Name: fouldecrypt
+Depends: zip
+Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
+Maintainer: misty
+Author: misty
+Section: System
+Tag: role::hacker
+Architecture: iphoneos-arm64
+Version: 0.0.4-2+debug
+Installed-Size: 1384
+Filename: pool/main/iphoneos-arm64/moe.misty.fouldecrypt_0.0.4-2+debug_iphoneos-arm64.deb
+Size: 122228
+MD5sum: 35ddbfa1677bf321926d85350a2fe27f
+SHA1: 1a9bf7f9a6bdd1b9ba0c6703c15ee26bf0aa8ce6
+SHA256: 7005fd058dd19027d64803b896a18918c863e1ed5ccd16e374abf9de5df9c7c4
 
