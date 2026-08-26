@@ -36,13 +36,13 @@ Author: aosaid <aosaid@proton.me>
 Section: Utilities
 Depends: firmware (>= 15.0), ldid, uikittools, unzip, zip, com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
 Architecture: iphoneos-arm64
-Version: 2.2.3
-Installed-Size: 868
-Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.2.3_iphoneos-arm64.deb
-Size: 204424
-MD5sum: 5e7057aec31bdac7c0b896122ab7863a
-SHA1: e5363729372785284b7a1f317cd2776ea55d72f8
-SHA256: 3c8f216781508ea2b282dda145b5409b7cdb278817e7256d30353ca96f3b83fa
+Version: 2.2.4
+Installed-Size: 800
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.2.4_iphoneos-arm64.deb
+Size: 198672
+MD5sum: b656ca4a28b13bd264400b8ced6e5f86
+SHA1: 15a99c768133ea0e5b89771c2f94636acf02a27f
+SHA256: 337799af55f7642c44940cf0643926c61e071a5872653df73fd7a1827049dadc
 
 Package: com.aosaid.privacyvault
 Name: D-AZIN
