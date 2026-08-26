@@ -50,37 +50,41 @@ def main():
 
     packages_text = "\n".join(packages) + "\n"
 
-    with open(os.path.join(REPO_DIR, "Packages"), "w") as f:
-        f.write(packages_text)
+    packages_bytes = packages_text.encode("utf-8")
+    import gzip
+    import bz2
+    import lzma
+    # Build each compressed representation once, then write and hash those exact bytes.
+    # gzip's default timestamp otherwise makes the written file differ from the bytes hashed in Release.
+    gz_data = gzip.compress(packages_bytes, mtime=0)
+    bz2_data = bz2.compress(packages_bytes)
+    xz_data = lzma.compress(packages_bytes, format=lzma.FORMAT_XZ)
+
+    with open(os.path.join(REPO_DIR, "Packages"), "wb") as f:
+        f.write(packages_bytes)
     with open(os.path.join(REPO_DIR, "Packages.gz"), "wb") as f:
-        import gzip
-        f.write(gzip.compress(packages_text.encode()))
+        f.write(gz_data)
     with open(os.path.join(REPO_DIR, "Packages.bz2"), "wb") as f:
-        import bz2
-        f.write(bz2.compress(packages_text.encode()))
+        f.write(bz2_data)
     with open(os.path.join(REPO_DIR, "Packages.xz"), "wb") as f:
-        import lzma
-        f.write(lzma.compress(packages_text.encode()))
+        f.write(xz_data)
 
-    # Generate Release file with proper hashes
-    pkg_size = len(packages_text.encode("utf-8"))
-    pkg_md5 = hashlib.md5(packages_text.encode()).hexdigest()
-    pkg_sha1 = hashlib.sha1(packages_text.encode()).hexdigest()
-    pkg_sha256 = hashlib.sha256(packages_text.encode()).hexdigest()
+    # Generate Release file with proper hashes of the exact files above
+    pkg_size = len(packages_bytes)
+    pkg_md5 = hashlib.md5(packages_bytes).hexdigest()
+    pkg_sha1 = hashlib.sha1(packages_bytes).hexdigest()
+    pkg_sha256 = hashlib.sha256(packages_bytes).hexdigest()
 
-    gz_data = gzip.compress(packages_text.encode())
     gz_size = len(gz_data)
     gz_md5 = hashlib.md5(gz_data).hexdigest()
     gz_sha1 = hashlib.sha1(gz_data).hexdigest()
     gz_sha256 = hashlib.sha256(gz_data).hexdigest()
 
-    bz2_data = bz2.compress(packages_text.encode())
     bz2_size = len(bz2_data)
     bz2_md5 = hashlib.md5(bz2_data).hexdigest()
     bz2_sha1 = hashlib.sha1(bz2_data).hexdigest()
     bz2_sha256 = hashlib.sha256(bz2_data).hexdigest()
 
-    xz_data = lzma.compress(packages_text.encode())
     xz_size = len(xz_data)
     xz_md5 = hashlib.md5(xz_data).hexdigest()
     xz_sha1 = hashlib.sha1(xz_data).hexdigest()
