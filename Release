@@ -8,19 +8,19 @@ Components: main
 Description: A-ZAIN Development Repo - Private testing channel
 
 MD5Sum:
- 1567ae3aa120ad5f18653d6245cb22ad 2870 Packages
- d9972eb083dbdef1ea9562be9c50b77c 1250 Packages.gz
- 9d22faaf25dd15b11739d7be29cba223 1385 Packages.bz2
- 149eded1c776a51317c14782d61b3ef6 1292 Packages.xz
+ 1e4f0a507cd4fc4ddb75b9f8a1b42576 2870 Packages
+ 1b41d4160ed98c9678904eed87ff6557 1250 Packages.gz
+ 51d2f9424481bbb280fdfb8828168530 1389 Packages.bz2
+ 73aa0194e8dbccd2cc09ae3d3baa63cf 1288 Packages.xz
 
 SHA1:
- 8cd3e22aae9c5bda6ff8354250f3bab4e91a8d0f 2870 Packages
- a370cdf06dd5fbc334ca8dc37125359ca426ea55 1250 Packages.gz
- 858a734c937a2e7b592708a91fafae95f57e2a5c 1385 Packages.bz2
- dc8640ad2b7f62fdb0adb2a43e71e8449c013069 1292 Packages.xz
+ 515eabc75e22815ad1e18119ed9546577f904103 2870 Packages
+ 4b441cb3e7e1cbe876e40ba90fe9034a1e443a8c 1250 Packages.gz
+ a74af42b249e02f1eabdee6a14ed6e4e021e5f3d 1389 Packages.bz2
+ 90efbe27b969778fdfdd1950a0a5762f58923aac 1288 Packages.xz
 
 SHA256:
- bacf8b5e07b881d19ba92db4aa5622e5374ae8be2564fc6dd352899e1c24ba8f 2870 Packages
- 44ddb3330cd1c96a9ec3b824e459e614a538a14a5748ff18e3aa8586e564d9f8 1250 Packages.gz
- c3d7ae15c036d3f88bdb6a56a7c34ea50a057d888cbd82cbc1125d4effd5089d 1385 Packages.bz2
- 27e183bdbf90a89ea539a700b3a83f24ab0fadde62edff14464521b63af75535 1292 Packages.xz
+ 2b1acf2d4d3fe3a79665447fd73a4c534800ae97dfbb37eabca8542be5f9ea81 2870 Packages
+ de7509c2f08e2a57b758db753150de4bfdba817ba385be8d77258bb1ea1eed84 1250 Packages.gz
+ 74afebf0939de317c44c0bfdc72ce594561cf58df577afde1556091997c3bf62 1389 Packages.bz2
+ 2447aebc1101c60789a0c2fc5f71912ac196ff1b97190fa9435d9f8a81768da5 1288 Packages.xz
