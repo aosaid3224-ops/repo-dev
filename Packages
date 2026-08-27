@@ -30,19 +30,19 @@ SHA256: b85f601229f584b4c01515ec84a75c684b257e8a079c592d21c297225c3a085b
 
 Package: com.aosaid.ipainstallerpro
 Name: IPA Installer Pro
-Description: Standalone IPA installer with proprietary signing — no external tools required
+Description: Standalone IPA installer with self-developed Spider analysis and signing orchestration using system primitives
 Maintainer: aosaid <aosaid@proton.me>
 Author: aosaid <aosaid@proton.me>
 Section: Utilities
 Depends: firmware (>= 15.0), ldid, uikittools, unzip, zip, com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
 Architecture: iphoneos-arm64
-Version: 2.2.7
+Version: 2.2.8
 Installed-Size: 800
-Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.2.7_iphoneos-arm64.deb
-Size: 198622
-MD5sum: 0b678e2b50a231dc55ac9d034fd52717
-SHA1: e285dcd15cd88e3fb439583f89d62ec6d0fc78b3
-SHA256: bb2a99463946200cc46bcc677d7cd55d8d224fd5fd85ccf13acf7b52d16576af
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.2.8_iphoneos-arm64.deb
+Size: 202978
+MD5sum: bad82130c2242cd9ab28a1cdc36bd964
+SHA1: 4c20368aaf04d6d2bebc5ef232d9876c784670f5
+SHA256: bd2d78739471e83ccd6488e4a1dadf8fdea8cddd106965ca2ac6289ace556ddb
 
 Package: com.aosaid.privacyvault
 Name: D-AZIN
