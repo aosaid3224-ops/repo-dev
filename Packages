@@ -564,6 +564,22 @@ Author: aosaid
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Architecture: iphoneos-arm64
+Version: 2.1.10
+Installed-Size: 384
+Filename: pool/main/iphoneos-arm64/com.aosaid.naverseriesbypass_2.1.10_iphoneos-arm64.deb
+Size: 24596
+MD5sum: cc3810824fbfd814b620b711523a4993
+SHA1: 710961a98e75f502f0c6613662d61b471437fc61
+SHA256: 6719a1b73dd0690b034ab47d2be1aeb725eb264a31b436c08db520ce91efa597
+
+Package: com.aosaid.naverseriesbypass
+Name: Naver Series Bypass
+Description: Advanced device ban bypass with Arabic UI & diagnostics for Naver Series. Supports iOS 16-18 Rootless.
+Maintainer: aosaid
+Author: aosaid
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Architecture: iphoneos-arm64
 Version: 2.1.1
 Installed-Size: 368
 Filename: pool/main/iphoneos-arm64/com.aosaid.naverseriesbypass_2.1.1_iphoneos-arm64.deb
