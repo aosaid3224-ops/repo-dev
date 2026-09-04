@@ -327,10 +327,10 @@ Architecture: iphoneos-arm64
 Version: 2.2.66-1+debug
 Installed-Size: 6596
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_2.2.66-1+debug_iphoneos-arm64.deb
-Size: 4745214
-MD5sum: b8a2b4c7e78fbb4d5374d7dc9cd6164e
-SHA1: ffdcf8aaccd5af0682b67a8af611f15b19ecbcc0
-SHA256: e188e436c05af2e2ae6200f14b2fb6e09a074170e28fedb1a24334717bc184db
+Size: 4745118
+MD5sum: bd734c56341ef134391884533d0dc0f3
+SHA1: b923e7641aed1f34fb59908df8175b259f6f7c9a
+SHA256: a80b1a6ad8f740840ff2396f7ab5219b1f0046fa59b9ea9450ec112d2e1e9a2e
 
 Package: com.aosaid.ipainstallerpro
 Name: Spider
