@@ -644,6 +644,22 @@ Author: aosaid <aosaid@proton.me>
 Section: Utilities
 Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
 Architecture: iphoneos-arm64
+Version: 3.0.29-1+debug
+Installed-Size: 6748
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.0.29-1+debug_iphoneos-arm64.deb
+Size: 4780450
+MD5sum: bc4ddbf38fc8728e59cca821719f2e0e
+SHA1: d9f77abfd5ea100dd6701119d6aca5d8fff8705c
+SHA256: c91a5ff1a47828603de1e58fb3ce0d7023aff63dae7bfd4ea5f8eaf0b61737ac
+
+Package: com.aosaid.ipainstallerpro
+Name: Spider
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Maintainer: aosaid <aosaid@proton.me>
+Author: aosaid <aosaid@proton.me>
+Section: Utilities
+Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
+Architecture: iphoneos-arm64
 Version: 3.0.5-1+debug
 Installed-Size: 6612
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.0.5-1+debug_iphoneos-arm64.deb
