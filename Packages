@@ -1143,10 +1143,10 @@ Depends: firmware (>= 15.0)
 Recommends: com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
 Architecture: iphoneos-arm64e
 Version: 3.0.36+roothide7
-Installed-Size: 5952
+Installed-Size: 5972
 Filename: pool/main/iphoneos-arm64e/com.aosaid.ipainstallerpro.roothide_3.0.36+roothide7_iphoneos-arm64e.deb
-Size: 5005610
-MD5sum: 0d3f61e0d8516b9218de1c5317fe577c
-SHA1: 7aeec1b8cc0abfae67f06de268b026ba27b0a007
-SHA256: 5014323d710d27c99649277894746cee8c696fc49718b7f67960c968cdc33524
+Size: 5015164
+MD5sum: d8374b06ead4140dd5159eb780f5afda
+SHA1: b458e816168cf5d5354b55aa72f65377b69085f9
+SHA256: cdca7cc4f3ce7fe78e37c52373f2309faed198b9725d114cd88626d6d1d4074d
 
