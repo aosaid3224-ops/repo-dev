@@ -1107,80 +1107,14 @@ Description: Spider official standalone IPA installer with analysis and signing 
 Maintainer: aosaid <aosaid@proton.me>
 Author: aosaid <aosaid@proton.me>
 Section: Utilities
-Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Architecture: iphoneos-arm64e
-Version: 3.0.35+roothide3
-Installed-Size: 5904
-Filename: pool/main/iphoneos-arm64e/com.aosaid.ipainstallerpro.roothide_3.0.35+roothide3_iphoneos-arm64e.deb
-Size: 4497488
-MD5sum: 4fcb7f41cc4814b3d5f7640da931e3e2
-SHA1: b1b92f59f95686dd74f04a0e90586fba3ffdcdf9
-SHA256: f1a21ef24317e81629c84d31a32417ad7f68ad9b1d684e6b696341c55a5d9db7
-
-Package: com.aosaid.ipainstallerpro.roothide
-Name: Spider RootHide
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
-Section: Utilities
-Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Architecture: iphoneos-arm64e
-Version: 3.0.35+roothide4
-Installed-Size: 5920
-Filename: pool/main/iphoneos-arm64e/com.aosaid.ipainstallerpro.roothide_3.0.35+roothide4_iphoneos-arm64e.deb
-Size: 4500244
-MD5sum: 5f8bf9b8bb7f9dc8684deb9b618716be
-SHA1: fadfcc5ae831a28a2491db6f501436318c15c8b7
-SHA256: 3ebb0fd2435480f3c228a22359194375ce97f5a7b7625ae9d31edbaac60d5620
-
-Package: com.aosaid.ipainstallerpro.roothide
-Name: Spider RootHide
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
-Section: Utilities
-Depends: firmware (>= 15.0)
-Recommends: com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Architecture: iphoneos-arm64e
-Version: 3.0.35+roothide5
-Installed-Size: 5920
-Filename: pool/main/iphoneos-arm64e/com.aosaid.ipainstallerpro.roothide_3.0.35+roothide5_iphoneos-arm64e.deb
-Size: 4500330
-MD5sum: 861793507d99fa4d87792e6f7622fcf9
-SHA1: a61b99e16056b86975fb5b54b2c268973bec0e76
-SHA256: a0d9777d7be3795269bed4cb04420e6e41f0ea4b6b484979ffaa42475145c72a
-
-Package: com.aosaid.ipainstallerpro.roothide
-Name: Spider RootHide
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
-Section: Utilities
-Depends: firmware (>= 15.0)
-Recommends: com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Architecture: iphoneos-arm64e
-Version: 3.0.35+roothide6
-Installed-Size: 5920
-Filename: pool/main/iphoneos-arm64e/com.aosaid.ipainstallerpro.roothide_3.0.35+roothide6_iphoneos-arm64e.deb
-Size: 4995934
-MD5sum: d2815cf43dc3a58839d4cd4ff6d87b4c
-SHA1: 3343964a23aeca8961d548505e8960f352447a41
-SHA256: 07a4fc1fc9f53ec2a327bc23c2e692864e3d80221da515928c481c68566fc387
-
-Package: com.aosaid.ipainstallerpro.roothide
-Name: Spider RootHide
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
-Section: Utilities
 Depends: firmware (>= 15.0)
 Recommends: com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
 Architecture: iphoneos-arm64e
 Version: 3.0.36+roothide7
 Installed-Size: 5952
 Filename: pool/main/iphoneos-arm64e/com.aosaid.ipainstallerpro.roothide_3.0.36+roothide7_iphoneos-arm64e.deb
-Size: 5005624
-MD5sum: 7597407b5778359432e9518546a46cc0
-SHA1: 047885ec5f6805e48ff9b196d41a808f9e049d52
-SHA256: ac441ad7b1568d1c09053fe3c0e0951bad24019b0193134052073c4e0b25071a
+Size: 5005610
+MD5sum: 0d3f61e0d8516b9218de1c5317fe577c
+SHA1: 7aeec1b8cc0abfae67f06de268b026ba27b0a007
+SHA256: 5014323d710d27c99649277894746cee8c696fc49718b7f67960c968cdc33524
 
