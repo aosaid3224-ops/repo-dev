@@ -1116,6 +1116,22 @@ MD5sum: ae28da31f0523d73c4131b2d6ecc523a
 SHA1: ae3acdca35f11a910f7adc1430f7f71d278c117f
 SHA256: e63cd882215585aa3df30fb334ea2870a81373498530750363fd05be256490f8
 
+Package: com.aosaid.ipainstallerpro
+Name: Spider
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Maintainer: aosaid <aosaid@proton.me>
+Author: aosaid <aosaid@proton.me>
+Section: Utilities
+Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
+Architecture: iphoneos-arm64
+Version: 3.1.4-1+debug
+Installed-Size: 6876
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.1.4-1+debug_iphoneos-arm64.deb
+Size: 4815494
+MD5sum: 0e6f5124e6ffb5e4ad76b29d0bafacb0
+SHA1: 2530cfbca49e711e3a58582a2d1fb3dc5d0132b2
+SHA256: 923413c7bd2eb1ce7ccedf8c32d481dc832c471155caf22472718e2706237354
+
 Package: com.aosaid.naverseriesbypass
 Name: Naver Series Bypass
 Description: Advanced device ban bypass with Arabic UI & diagnostics for Naver Series. Supports iOS 16-18 Rootless.
