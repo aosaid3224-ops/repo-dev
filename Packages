@@ -1255,10 +1255,10 @@ Architecture: iphoneos-arm64
 Version: 3.2.2-1+debug
 Installed-Size: 6952
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.2.2-1+debug_iphoneos-arm64.deb
-Size: 4833324
-MD5sum: 4d25308ecb3161f56fb30e66a9bedea3
-SHA1: 16370ceb8648317406f20101dce0123d7801f301
-SHA256: 5e442651cbf2f432740f4ea72ab47066363ae8bf4f38bede0179d37fea5abebf
+Size: 4833330
+MD5sum: e40b78ebc23059400f011a5e4eb48f7f
+SHA1: 930a2d855238f61c51ce487d2bfe32a432ec010b
+SHA256: 53167061537cfa88834a4918f648705f87906ae0a0fd651d8f41e2f481fa4e8f
 
 Package: com.aosaid.naverseriesbypass
 Name: Naver Series Bypass
