@@ -1742,6 +1742,21 @@ MD5sum: 78b8c929f94ad7d4fe3b88dd6b6380c6
 SHA1: 622398622018ac60705f6e611d652031ecaf2bcd
 SHA256: dc6833b7cc114af8ee539c0a53ad76f4ff2bb7786f0629aead92cc745c346d08
 
+Package: com.cracklab.app
+Name: Crack Lab
+Description: مختبر تعديل الألعاب — اكتشاف، تصنيف، وفحص
+Maintainer: Crack Lab
+Author: Crack Lab
+Section: Utilities
+Architecture: iphoneos-arm64
+Version: 1.0.0-1+debug
+Installed-Size: 268
+Filename: pool/main/iphoneos-arm64/com.cracklab.app_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 55240
+MD5sum: 9b11f7b92c3bf443695af96f4d6ee3a3
+SHA1: 2bb543f22d400fbabb26fe2d90fec7d82019c197
+SHA256: 5c21c8626bd6601a609af1760d4894e9b3894d39a7dbf4ed02fb120652e9d90f
+
 Package: moe.misty.fouldecrypt
 Name: fouldecrypt
 Depends: zip
