@@ -1749,13 +1749,13 @@ Maintainer: Crack Lab
 Author: Crack Lab
 Section: Utilities
 Architecture: iphoneos-arm64
-Version: 1.0.1-1+debug
-Installed-Size: 268
-Filename: pool/main/iphoneos-arm64/com.cracklab.app_1.0.1-1+debug_iphoneos-arm64.deb
-Size: 55322
-MD5sum: 0a437d7f140b7eb54bc871d39de0c90d
-SHA1: f4a3e453ce16423046aa03103eca01bd2d22401e
-SHA256: e55dcd50da0f14b0c4ce9fa724552e6582f0dedfc54868b2ffb4c7779ee70413
+Version: 1.0.2-1+debug
+Installed-Size: 272
+Filename: pool/main/iphoneos-arm64/com.cracklab.app_1.0.2-1+debug_iphoneos-arm64.deb
+Size: 55604
+MD5sum: cfed9caefd9044eb660f8a1bb9e04384
+SHA1: 5276e301984cb78adb5523a8ae63175438279512
+SHA256: 52e12a03f5a9e6243cf27ee55b5a380fdfd9551e170e5f0af4ab41b6620106d5
 
 Package: moe.misty.fouldecrypt
 Name: fouldecrypt
