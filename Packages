@@ -1870,6 +1870,22 @@ MD5sum: daf537b0b73a56cba50bc9dba6963c3d
 SHA1: 48cf72594010217bdad4596a688bf1f084f5d017
 SHA256: 1276d70034d7d299160168bca82cf149f28ad6eefc0142b4f4449c2dfcaa56e9
 
+Package: com.aosaid.naverseriesbypass
+Name: Naver Series Bypass
+Description: Advanced device ban bypass with Arabic UI & diagnostics for Naver Series. Supports iOS 16-18 Rootless.
+Maintainer: aosaid
+Author: aosaid
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Version: 3.3.0
+Installed-Size: 392
+Filename: pool/main/iphoneos-arm64/com.aosaid.naverseriesbypass_3.3.0_iphoneos-arm64.deb
+Size: 26618
+MD5sum: 3ae8a71e875399857f1f6183d4466e39
+SHA1: aff2194c75af93155d0bb0a15979528623c02116
+SHA256: 0cbbc6496b77865765d64c50783f35512bf6307d381717e66a22bf7c11129ff9
+
 Package: com.aosaid.privacyvault
 Name: D-AZIN
 Description: System update checker
