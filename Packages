@@ -1574,13 +1574,13 @@ Author: aosaid
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
 Architecture: iphoneos-arm64
-Version: 3.3.9
+Version: 3.3.10
 Installed-Size: 408
-Filename: pool/main/iphoneos-arm64/com.aosaid.naverseriesbypass_3.3.9_iphoneos-arm64.deb
-Size: 35328
-MD5sum: 3de3e925c397ab444da3a9e8ae5a5c1e
-SHA1: 08e30cdc529007788cb2f75e932acebb187c25e3
-SHA256: 872015ad25bbeaf898011116f4b276ef9bd9cc9b7cf0f60c1f4b5fd9b480995f
+Filename: pool/main/iphoneos-arm64/com.aosaid.naverseriesbypass_3.3.10_iphoneos-arm64.deb
+Size: 35450
+MD5sum: 4f90cdc1456b35b828b85c01cc0a5d9a
+SHA1: 6b119373f80cbe65ae58a934539ab3bdbb2dec5e
+SHA256: 25b6ec45454f99de3482f39f4c10bc5a1c1ce64a8aea8a19b01e20e789382c39
 
 Package: com.aosaid.privacyvault
 Name: D-AZIN
