@@ -37,13 +37,13 @@ Author: aosaid <aosaid@proton.me>
 Section: Utilities
 Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
 Architecture: iphoneos-arm64
-Version: 3.3.11
+Version: 3.3.12
 Installed-Size: 1704
-Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.3.11_iphoneos-arm64.deb
-Size: 735100
-MD5sum: dfff6a0532a8a1d1fdf67fe10d8298b8
-SHA1: dc44e824fa65ee9aa34e420d0ace37ee896e26fe
-SHA256: 9cd1c05e663813c8a2420552678e972ff6bc5d3abffac39093a084fd3a6be945
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.3.12_iphoneos-arm64.deb
+Size: 735986
+MD5sum: 6d92e6692be7edc96071f12b5dcd405b
+SHA1: c53affad7525715ee6455d56feea1a9d1a855947
+SHA256: f4121fc49a96f21a6be028f4f1280a528cde285a73d13bb9098be9dc0c2f8a30
 
 Package: com.aosaid.naverseriesbypass
 Name: Naver Series Bypass
