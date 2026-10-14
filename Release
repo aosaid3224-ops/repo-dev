@@ -7,22 +7,22 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: A-ZAIN Development Repo - Private testing channel
 
-Date: Tue, 13 Oct 2026 20:20:16 UTC
+Date: Wed, 14 Oct 2026 20:55:37 UTC
 
 MD5Sum:
- 7a88477fec44788190adf271eb26adbe 8564 Packages
- a3790887e3b64835bf29326de223af9f 2798 Packages.gz
- cf92cb75501063159d707cbdd4f74878 2913 Packages.bz2
- 42eeb983a57de04ed4a48ff0515d7c35 2660 Packages.xz
+ be5dd1a7fc5cf7e19726a69524df9ce0 8565 Packages
+ 0092fc8af3da8a561beaff6471d82655 2795 Packages.gz
+ 9e0b74f0c761ff248e24f9d420f668a5 2894 Packages.bz2
+ f573527d92f621a7c4b84e264c617f1a 2656 Packages.xz
 
 SHA1:
- 7ad144279993de93b7aa9feb91040c32cb09a6f5 8564 Packages
- be6f5d5ebafa7f9d2c3ea7131f7edfe0dd899488 2798 Packages.gz
- 2a75421a8ef675cc0a608cb2bc0b08d63bcd24d2 2913 Packages.bz2
- edd7df1f78649182ede26e3ebdacbfa8a0cb949b 2660 Packages.xz
+ 5875eabb72e635bd65111829dd2a66378e021c81 8565 Packages
+ 56b90435289cf6a9c7665332af93a07c9cfe0eb3 2795 Packages.gz
+ 2959d9ed62c2ebba2ee1bde8a061e7a306b17d61 2894 Packages.bz2
+ 96d55bbeed35f6986e1214c23d5e07a72cb13a73 2656 Packages.xz
 
 SHA256:
- 87357dd541a9e74090906b0deae332906e2d56a95f9eb0d1f933525036023585 8564 Packages
- b792df1a4ece338a2ecdd4c8c0442e59995856079dc5358a6e7f9ebba831bb96 2798 Packages.gz
- 13987ff05179d7fcec969fe4aeacca4f4c171f66bff807258974a6d6d5ee75c2 2913 Packages.bz2
- 78dd2c383e6a091d1f92df2aa4aa61ef637d3201142ec9424d3b4c170ee4d476 2660 Packages.xz
+ 7a951c8e95b12c1c7728d0f9d04bf07d7e52ec000d6e8c5c1d6a49ae460285f3 8565 Packages
+ 5a70d9dd004faa6fe084eea2e3f29683cf867bf3d89d5a834fcdd34ed682c047 2795 Packages.gz
+ e36dcaedbf723476318c09077bf2af00a63e7b08195397e03a38e169dec5c17a 2894 Packages.bz2
+ 54389b90aeeb7e2d6721c7e319338b361d8d522a30c54472d21025c470ec7843 2656 Packages.xz
