@@ -25,10 +25,10 @@ Architecture: iphoneos-arm64
 Version: 0.2.0
 Installed-Size: 248
 Filename: pool/main/iphoneos-arm64/com.aosaid.deltaguard_0.2.0_iphoneos-arm64.deb
-Size: 32450
-MD5sum: 74b95cc9659d3a66f974d75b53c2c20f
-SHA1: 07a47e9ed061da2fbe4db52aa30b847ace11b301
-SHA256: 81ae54b1d28ef6808fb8ea76294f6f6aeb8440a67363bbeb877900ceef43f8ae
+Size: 33216
+MD5sum: 25a0785f02dd7cf97d401f5508342c22
+SHA1: c9ece49cf1377dab76339481edd583d3cbc86c06
+SHA256: 1167d85af77275b5d690e2e583ab106315c579f74865b879326aead9fe17ec6e
 
 Package: com.aosaid.ipadecrypthelper
 Name: IPA Decrypt Helper
