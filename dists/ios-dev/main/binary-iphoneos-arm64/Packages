@@ -86,6 +86,22 @@ Author: aosaid
 Section: Applications
 Depends: firmware (>= 15.0)
 Architecture: iphoneos-arm64
+Version: 0.10.4
+Installed-Size: 760
+Filename: pool/main/iphoneos-arm64/com.aosaid.deltaguard_0.10.4_iphoneos-arm64.deb
+Size: 98884
+MD5sum: 21262d4c8c2077718e58e96c2de0dfe4
+SHA1: e236fc531e0b322d57a43d571c73b8ca1731b0fd
+SHA256: b9296723f0badcff4d1744a9fa3e0a717c6a9ced22fd30fa7343ca07fbcf1e67
+
+Package: com.aosaid.deltaguard
+Name: DeltaGuard iOS
+Description: Native iOS DeltaGuard environment, server launcher, process monitor, persistent log, and functional Rootless diagnostics.
+Maintainer: aosaid
+Author: aosaid
+Section: Applications
+Depends: firmware (>= 15.0)
+Architecture: iphoneos-arm64
 Version: 0.2.3
 Installed-Size: 304
 Filename: pool/main/iphoneos-arm64/com.aosaid.deltaguard_0.2.3_iphoneos-arm64.deb
