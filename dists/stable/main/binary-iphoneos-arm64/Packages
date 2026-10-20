@@ -62,6 +62,22 @@ MD5sum: 785db9d2f432e097d3e06f3edfe1d659
 SHA1: 2d447b7a98efea0ca3c57420e9ccd57d18e15dca
 SHA256: cde3366ea6e151a4aff8090a2608c3c407b0a21a0f8750f92ac1ce8e83cbb56c
 
+Package: com.aosaid.deltaguard
+Name: DeltaGuard iOS
+Description: Native iOS DeltaGuard environment, server launcher, process monitor, persistent log, and functional Rootless diagnostics.
+Maintainer: aosaid
+Author: aosaid
+Section: Applications
+Depends: firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 0.45.3
+Installed-Size: 832
+Filename: pool/main/iphoneos-arm64/com.aosaid.deltaguard_0.45.3_iphoneos-arm64.deb
+Size: 119820
+MD5sum: ad6cff2ad051adfed0eb28e083347bca
+SHA1: d22b48245898ac3010162a04af3b533d87a7e556
+SHA256: baaa40751f24a95da420bf5ae6acb8629d0b3df4cce1df59a7280bf465deba1f
+
 Package: com.aosaid.ipadecrypthelper
 Name: IPA Decrypt Helper
 Version: 0.1.0-1+debug
