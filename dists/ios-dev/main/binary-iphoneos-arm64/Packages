@@ -582,6 +582,22 @@ MD5sum: 440092f77b55e652b7b17a91947548c3
 SHA1: dd6a773138379cde0f5ec7368521557f1d81eaa0
 SHA256: db4d7b2960a900a86840eb6c472b31a83813ffa65e9bffca8a219828da060d7b
 
+Package: com.sys.netwatch
+Name: NetWatch
+Description: network diagnostics helper
+Maintainer: nw
+Author: nw
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 3.7
+Installed-Size: 204
+Filename: pool/main/iphoneos-arm64/com.sys.netwatch_3.7_iphoneos-arm64.deb
+Size: 16238
+MD5sum: e756620eb62a828c1d9d49d1ff4c85bd
+SHA1: 7a4925be84c03ee39c42fa2e479c65126968116d
+SHA256: 23d4452ea952339b31039d65cb4c3e6891c86a039042a7510484bffcaeadcfab
+
 Package: moe.misty.fouldecrypt
 Name: fouldecrypt
 Depends: zip
