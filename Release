@@ -3,25 +3,25 @@ Label: A-ZAIN Development
 Suite: stable
 Version: 1.0
 Codename: ios-dev
-Date: Wed, 21 Oct 2026 05:09:23 GMT
+Date: Wed, 21 Oct 2026 05:09:31 GMT
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: A-ZAIN Development Repo - Private testing channel
 
 MD5Sum:
- 4f02e02abe4f93145ae5a07bee9665d9 18944 Packages
- a0ad86085950ac09564b3439a853c897 4782 Packages.gz
- 6542813e14a032d2bc2904873c4330f5 4693 Packages.bz2
- 47528019f6c2b22649969d2768040327 4312 Packages.xz
+ 678ec9668f5021174cbfee4af807ec41 18492 Packages
+ 1728a062afa509ea74230c6f8ad2828b 4654 Packages.gz
+ 0ad8cb7ccb6f0b6999a578dd7784c9ba 4575 Packages.bz2
+ 6d6e2c7938b7206574f495e5cdf171e4 4200 Packages.xz
 
 SHA1:
- b93aed2485ee1b7bc52fb9b2e0ebaa589c41bbdd 18944 Packages
- 57e725f06ad51db1e5ca66c21a1421b0c9fca2aa 4782 Packages.gz
- 524e8f85f69de37f6a2fd35ba99de339525a4f2f 4693 Packages.bz2
- 3e22f90f6a9a4d0ebad3aac67da91646d917b750 4312 Packages.xz
+ 7fc8a3d7436d4e1d905fd918f24012e2d9105ba1 18492 Packages
+ f87ad7effeec291912e0a2617198175727c6b9b9 4654 Packages.gz
+ 89ce629b8c4ca242f3583752cf9cb41fc182fe9f 4575 Packages.bz2
+ e418a233e6a7c161f6134b9b8ebaf763f83d475c 4200 Packages.xz
 
 SHA256:
- 5c9fcb66eda4e5c169327df7417b4e5b549181d809dccd28ba57501a862674f8 18944 Packages
- cc268e006cae7b90af6ac1750b38236d4f82b2fb3fa83538da16f73cf3b68d0f 4782 Packages.gz
- 2687694b0ff90fac64d3e8891ff1b9fe092fc8c1a290acd23d9a9af73584466d 4693 Packages.bz2
- c3c2023e1230858a7f89dbbc613872f23928af02f804b2e694015702b95ca12e 4312 Packages.xz
+ a13d845d25c502d21d0bc8cd424b797d405181fba49177affefcfcd664590d87 18492 Packages
+ 59c866cc96635481ced0930cf7cf76e1f96e0a529cdb4448e10eb54b26a63df9 4654 Packages.gz
+ 4fc2533df2961afcf086079d0f8949d1b16075baa1a3de3ddd769bb0e4df3e1e 4575 Packages.bz2
+ 9fde86848c218178d927eace94038ee7b9325f3c7cd5eb9bd6ff2a1df896026c 4200 Packages.xz
