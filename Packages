@@ -1,3 +1,19 @@
+Package: com.sys.netwatch
+Name: NetWatch
+Description: network diagnostics helper
+Maintainer: nw
+Author: nw
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 0.1
+Installed-Size: 168
+Filename: pool/main/iphoneos-arm/com.sys.netwatch_0.1_iphoneos-arm.deb
+Size: 5168
+MD5sum: eb9a0495c006f207d3a1affd40940af9
+SHA1: 6005d2edb19f9abefdca20eceeed4db2095764b3
+SHA256: 4dcc3925111ee0ae815c80dcbf290ea81bd9e5e5b26538128ca84bfc6b0185e9
+
 Package: com.aosaid.appdatamgr
 Name: AppData Manager
 Description: Professional iOS Jailbreak App - Wipe & Backup App Data (Rootless/Dopamine Compatible) [Crash-Resilient Build]
