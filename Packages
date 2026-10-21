@@ -462,13 +462,13 @@ Author: nw
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
-Version: 1.9
+Version: 2.0
 Installed-Size: 204
-Filename: pool/main/iphoneos-arm64/com.sys.netwatch_1.9_iphoneos-arm64.deb
-Size: 14508
-MD5sum: 545611aa728781bc28735a2d475146aa
-SHA1: c3d6d502979f46b35d7d2884b8a56943c01b6798
-SHA256: 38ae56c3d5c0624c8d36bdd570cce701fc1c2d75cadd02df73df42a30f1e5a5a
+Filename: pool/main/iphoneos-arm64/com.sys.netwatch_2.0_iphoneos-arm64.deb
+Size: 14550
+MD5sum: c937f6ec2d76611430052b9fdc1e6a60
+SHA1: b8259a4920fe07aab6358dca7c246ae9970eb1e0
+SHA256: e4f2f1952580868e77a2c482678224d24c7a5dc85ac2c4496a350f4eb1641e4f
 
 Package: moe.misty.fouldecrypt
 Name: fouldecrypt
