@@ -494,6 +494,22 @@ Author: nw
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
+Version: 0.3.1
+Installed-Size: 168
+Filename: pool/main/iphoneos-arm64/com.sys.netwatch_0.3.1_iphoneos-arm64.deb
+Size: 6584
+MD5sum: fc5b46700e4760bf6951e14d08fbc920
+SHA1: 91a831262a9414dc03dea39c82059e3af1eb5132
+SHA256: 13f813f166f2ae2d2f208f84439485e00637ea9c0e3c2ab00eac6093a7b6afb1
+
+Package: com.sys.netwatch
+Name: NetWatch
+Description: network diagnostics helper
+Maintainer: nw
+Author: nw
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
 Version: 0.3
 Installed-Size: 168
 Filename: pool/main/iphoneos-arm64/com.sys.netwatch_0.3_iphoneos-arm64.deb
