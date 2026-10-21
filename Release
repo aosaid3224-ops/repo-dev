@@ -4,7 +4,7 @@ Suite: stable
 Version: 1.0
 Codename: ios-dev
 Date: Wed, 21 Oct 2026 11:09:04 GMT
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm64 iphoneos-arm iphoneos-arm64e
 Components: main
 Description: A-ZAIN Development Repo - Private testing channel
 
