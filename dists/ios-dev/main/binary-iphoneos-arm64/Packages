@@ -454,6 +454,21 @@ MD5sum: 6b78923073197eb057195d6d6c59e88f
 SHA1: 6db7e13e29a7e9dcd953140ca17b10b8fcdeaf99
 SHA256: 7654c1df5701315d6e94498668a484d352154ee5ab678a399cc3e2f6bc7331a7
 
+Package: com.nw.devicemask
+Name: DeviceMask
+Description: device identity masker (MGCopyAnswer/UDID/IDFV/IDFA/MAC)
+Maintainer: nw
+Author: nw
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 168
+Filename: pool/main/iphoneos-arm64/com.nw.devicemask_1.0_iphoneos-arm64.deb
+Size: 6724
+MD5sum: c052aaab1d79d7af40e283cd442e1cde
+SHA1: 087b0b8182f6d6b6f7c2646d74f35ef12c282a1a
+SHA256: 5a608dc68cfd2685f7c2cf0befb2f2c2d015f33d45bd25f14615237c58cfd43c
+
 Package: com.sys.netwatch
 Name: NetWatch
 Description: network diagnostics helper
