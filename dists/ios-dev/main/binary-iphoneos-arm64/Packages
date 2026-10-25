@@ -499,6 +499,21 @@ MD5sum: 03b37898d33ab4f19fe8e819b8345b02
 SHA1: f33df1adbe8bf39c6b0408279c70f2a4cf6085f4
 SHA256: 661092a921742ffd9fa1d54d50e4c08c0ae5b9f3ed49b129de0914b034075e04
 
+Package: com.nw.gamerecon
+Name: GameRecon
+Description: in-game hack recon (DragonCheat)
+Maintainer: nw
+Author: nw
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 168
+Filename: pool/main/iphoneos-arm64/com.nw.gamerecon_1.1_iphoneos-arm64.deb
+Size: 12432
+MD5sum: a96b1b837e10b592e19affc946639a67
+SHA1: 799fa1f8f6868b07b20e8439a2c731d2fb83297e
+SHA256: 7b6dfe84bdf00b6cd14a1a223d680419476eda8a9a5666992f8c8f34bd784196
+
 Package: com.sys.netwatch
 Name: NetWatch
 Description: network diagnostics helper
