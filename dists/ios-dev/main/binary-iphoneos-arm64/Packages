@@ -589,6 +589,21 @@ MD5sum: 02d69471c7d227e882c5732f770e4af0
 SHA1: 4e4d00e08ce9d64637c7f46f721547487e167b39
 SHA256: f3c99716599dbcbe307b3d825a357c5acc013a7dd3c743172a62d6c55e48643c
 
+Package: com.nw.gameforge
+Name: GameForge
+Description: DragonCheat udid/lookup forge + recon
+Maintainer: nw
+Author: nw
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 6.0
+Installed-Size: 164
+Filename: pool/main/iphoneos-arm64/com.nw.gameforge_6.0_iphoneos-arm64.deb
+Size: 26446
+MD5sum: e6ac1629a5dd09135a209da98a96111f
+SHA1: 03e640833ed295c13de009f1432ccb75490c64ec
+SHA256: 93d5ffa19b6a4c05c2df29234900f39b5c5b472a1f55b906951ab03c57cba9a4
+
 Package: com.nw.gamerecon
 Name: GameRecon
 Description: in-game hack recon (DragonCheat)
