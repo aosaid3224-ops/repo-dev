@@ -3,7 +3,7 @@ Label: A-ZAIN Development
 Suite: stable
 Version: 1.0
 Codename: ios-dev
-Date: Mon, 26 Oct 2026 22:47:32 GMT
+Date: Mon, 26 Oct 2026 23:01:29 GMT
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: A-ZAIN Development Repo - Private testing channel
@@ -13,10 +13,10 @@ MD5Sum:
  4a4dd3598707603b3f76a2378a4504aa 20 main/binary-iphoneos-arm/Packages.gz
  4059d198768f9f8dc9372dc1c54bc3c3 14 main/binary-iphoneos-arm/Packages.bz2
  8dc5aea5b03dff8595f096f9e368e888 32 main/binary-iphoneos-arm/Packages.xz
- cb88dcd4b2b5b2cb3854941c07813696 28641 main/binary-iphoneos-arm64/Packages
- 58746354b608f629025cfd9172946bdd 7176 main/binary-iphoneos-arm64/Packages.gz
- 8ce8f81765db0df7c2e0d8d5e75df688 6758 main/binary-iphoneos-arm64/Packages.bz2
- d4956df947d15cb0bea42ea6ed1c133c 6244 main/binary-iphoneos-arm64/Packages.xz
+ 07df61c25c2a4e61ab9246f99d89271a 29087 main/binary-iphoneos-arm64/Packages
+ 47bb0f3f792cdb322aa48d2fbfacaeac 7280 main/binary-iphoneos-arm64/Packages.gz
+ 37210a8ba2f83b3b54965228ea62f0aa 6816 main/binary-iphoneos-arm64/Packages.bz2
+ f1cc47d17afee626aaee8e74a4c1eb9c 6328 main/binary-iphoneos-arm64/Packages.xz
  86fb949c8579a39256c0efaadb9aa91f 728 main/binary-iphoneos-arm64e/Packages
  008038c839def9fcd2f79ea235008954 461 main/binary-iphoneos-arm64e/Packages.gz
  c33d8da08ce2f342828dc926ea196b1b 525 main/binary-iphoneos-arm64e/Packages.bz2
@@ -31,10 +31,10 @@ SHA1:
  a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 main/binary-iphoneos-arm/Packages.gz
  64a543afbb5f4bf728636bdcbbe7a2ed0804adc2 14 main/binary-iphoneos-arm/Packages.bz2
  9746882f4236fa1c3a8f86be2f1d9c46680c0b10 32 main/binary-iphoneos-arm/Packages.xz
- 3732c1f6bb491cc98107260f19d770d8984a6f95 28641 main/binary-iphoneos-arm64/Packages
- 0961a3122238e3e9704ed6f9ed772ff79d2bc3d9 7176 main/binary-iphoneos-arm64/Packages.gz
- 8edc85fb175583f1184377834359e8135cf70e16 6758 main/binary-iphoneos-arm64/Packages.bz2
- ef0247ae0dd71fea382338f5c15983ff3145fb15 6244 main/binary-iphoneos-arm64/Packages.xz
+ 977f83fba5b4400b6bd90ff9db8f5812a443a6c3 29087 main/binary-iphoneos-arm64/Packages
+ f2d4561fce70bc134441c9375253fcc1ffb999c8 7280 main/binary-iphoneos-arm64/Packages.gz
+ 9108e465771abbc550791db2e6a898001a7870e1 6816 main/binary-iphoneos-arm64/Packages.bz2
+ ac1f0f2b05f8151447ccf762a3d82cd4ec849727 6328 main/binary-iphoneos-arm64/Packages.xz
  73ec2bb7a486253c2544ff2253c78065229943a9 728 main/binary-iphoneos-arm64e/Packages
  11427da61f58d39f5e36bf268741b90cb7458668 461 main/binary-iphoneos-arm64e/Packages.gz
  0b50c81cc85af3f12628f23ccd39da8f79c8ff25 525 main/binary-iphoneos-arm64e/Packages.bz2
@@ -49,10 +49,10 @@ SHA256:
  f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 main/binary-iphoneos-arm/Packages.gz
  d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 main/binary-iphoneos-arm/Packages.bz2
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 main/binary-iphoneos-arm/Packages.xz
- 7bffcb22ea8bcc6227efe6dda5b302726f73265977e77ec962147d1283065999 28641 main/binary-iphoneos-arm64/Packages
- 211982388de9d06eb95845fd75840b07761b02778ad34c98c3a6318db216e461 7176 main/binary-iphoneos-arm64/Packages.gz
- a8caedfad29da69d5ed113069f691822265b0b55531a1fb22ad5e6ac1bdf30b0 6758 main/binary-iphoneos-arm64/Packages.bz2
- 9fe49675f1ad7b5d6cb11612a39416380f2bc8d4d7c40e82e0ed5edcabe978fe 6244 main/binary-iphoneos-arm64/Packages.xz
+ a2dd09f01f02bcac6518f0486a0156325a959af0355f3f34f0c3a2f933b818cd 29087 main/binary-iphoneos-arm64/Packages
+ de460e76deb92ad3d03159bb463a626b18e880d6c4eb6ba7bf363ee029a2df1b 7280 main/binary-iphoneos-arm64/Packages.gz
+ df0082789d2677ba7e1edd2df1e5323f8fc3d6345e1affb9263c01ca306d59b3 6816 main/binary-iphoneos-arm64/Packages.bz2
+ dd941177b33098196fe2f8cf87b6ae8baba7ef75dda506882ed7705ae47d113c 6328 main/binary-iphoneos-arm64/Packages.xz
  ebec813c6885ecd3695380cb83d815e4e7d0229b08e881f79cc09e3294dbb852 728 main/binary-iphoneos-arm64e/Packages
  202ee8c0cf4f1d40c5aa0829ec434c37d9bcd6f43b03df81fe991fe47dddcaf3 461 main/binary-iphoneos-arm64e/Packages.gz
  b928a1ddebc9180c2d6637080f0f60eaf153e630b62cdf311bbed9265f7b9d3d 525 main/binary-iphoneos-arm64e/Packages.bz2
